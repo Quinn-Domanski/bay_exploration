@@ -1,2 +1,15 @@
-data/
+# Environments
 venv/
+.env
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Editor/Neovim swap files
+*.swp
+*.swo
+*~
+
+# Python cache
+__pycache__/
+*.pyc
